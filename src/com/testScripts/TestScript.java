@@ -68,7 +68,7 @@ public class TestScript {
 		
 		driver.findElement(By.xpath(".//*[@id='Checkout-Shipping-and-Services']/div[@class='background_supporting pad20 noSidePad border_CC onlyTopBorder']/fieldset/div/input[@type='submit']")).click();	
 		
-		
+		System.out.println("hi");
 
 	}
 
